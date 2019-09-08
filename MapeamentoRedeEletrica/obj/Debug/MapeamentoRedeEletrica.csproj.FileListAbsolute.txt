@@ -1,0 +1,10 @@
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\bin\Debug\MapeamentoRedeEletrica.exe.config
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\bin\Debug\MapeamentoRedeEletrica.exe
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\bin\Debug\MapeamentoRedeEletrica.pdb
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.Form1.resources
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.Properties.Resources.resources
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.exe
+C:\Users\profe\source\repos\MapeamentoRedeEletrica\MapeamentoRedeEletrica\obj\Debug\MapeamentoRedeEletrica.pdb
